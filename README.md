@@ -3,7 +3,7 @@
 </h1>
 
 # North Pole Noir
-North Pole Noir is an AI-powered interactive mystery game built with Streamlit. Set in a snowy, atmospheric North Pole, the player takes on the role of a detective tasked with finding Santa’s Great Toy Sack, which has been stolen just hours before Christmas Eve.is a professional-grade AI-powered investigative game built with **Streamlit**. Set in the mysterious North Pole, players must solve the theft of Santa's Great Toy Sack by interrogating suspects and piecing together clues before Christmas Eve ends.
+North Pole Noir is an AI-powered interactive mystery game built with Streamlit. Set in a snowy, atmospheric North Pole, the player takes on the role of a detective tasked with finding Santa’s Great Toy Sack, which has been stolen just hours before Christmas Eve. Set in the mysterious North Pole, players must solve the theft of Santa's Great Toy Sack by interrogating suspects and piecing together clues before Christmas Eve ends. A Llama 3.3 model is integrated to generate the answers of the characters.
 
 <div id="badges" align="center">
     <img img src="images/All.png" width="200" height="200"/>
@@ -34,3 +34,4 @@ git clone [https://github.com/your-username/north-pole-noir.git](https://github.
 cd north-pole-noir
 
 pip install streamlit groq
+

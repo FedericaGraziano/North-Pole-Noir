@@ -28,11 +28,20 @@ North Pole Noir is an AI-powered interactive mystery game built with Streamlit. 
 * Streamlit
 * Groq API Key
 
-### 2. Installation
+### 2.Project architecture
+
+- main.py: The UI controller managing views (Landing, Hall, Room, Game Over).
+- logic.py: Handles AI prompt engineering, stress mechanics, and session state.
+- data.py: Contains the personality profiles, alibis, and multilingual translations.
+- styles.py: Custom CSS injections and the create_snow_effect animation.
+
+### 3. Installation
 ```bash
 git clone [https://github.com/your-username/north-pole-noir.git](https://github.com/your-username/north-pole-noir.git)
 cd north-pole-noir
 
-pip install streamlit groq
+pip install streamlit groq 
+
+
 
 

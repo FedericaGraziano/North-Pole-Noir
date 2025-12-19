@@ -13,11 +13,11 @@ North Pole Noir is an AI-powered interactive mystery game built with Streamlit. 
 
 ## ✨ Features
 
-- Dynamic AI Interrogations**: Powered by **Groq (Llama 3.3)**, suspects provide unique, non-repetitive answers based on their role and "Stress Level".
-- Immersive Noir UI**: Custom CSS including "Icy" titles, animated snowfall effects, and specialized parchment-style popups.
-- Multilingual Support**: Fully localized gameplay in both **English** and **Italian**.
-- Detective Notebook**: A persistent sidebar log that tracks all questions and answers throughout the session.
-- Smart Game Logic**: Randomized scenarios where roles (culprit vs. witness) and evidence change every time you play.
+- Dynamic AI Interrogations: Powered by **Groq (Llama 3.3)**, suspects provide unique, non-repetitive answers based on their role and "Stress Level".
+- Immersive Noir UI: Custom CSS including "Icy" titles, animated snowfall effects, and specialized parchment-style popups.
+- Multilingual Support: Fully localized gameplay in both **English** and **Italian**.
+- Detective Notebook: A persistent sidebar log that tracks all questions and answers throughout the session.
+- Smart Game Logic: Randomized scenarios where roles (culprit vs. witness) and evidence change every time you play.
 
 ---
 
@@ -41,6 +41,7 @@ git clone [https://github.com/your-username/north-pole-noir.git](https://github.
 cd north-pole-noir
 
 pip install streamlit groq 
+
 
 
 

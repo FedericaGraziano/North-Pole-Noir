@@ -152,6 +152,9 @@ else:
                     <p style="font-size: 24px;">{texts['win_msg']} <b>{scenario['culprit']}</b>!</p>
                     <p><b>{texts['motive_label']}</b> {scenario['motive']}</p>
                     <p><b>{texts['evidence_label']}</b> {scenario['evidence']}</p>
+                    <p style="margin-top: 20px; font-size: 18px; color: #00ff00;">
+                        Your winner code is: <b>"Santa stinks, Rudolph rules"</b>. Hurry up! Claim your time!
+                    </p>
                 </div>
             """, unsafe_allow_html=True)
         else:

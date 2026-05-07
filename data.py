@@ -43,7 +43,7 @@ GAME_DATA = {
             "gift_btn": "🎁 Al mio regalo",
             "new_game_btn": "🔄 Nuova Indagine",
             "intro_text": """
-        Sono le <b>19:00 della vigilia di Natale</b>. 
+        Sono le <b>19:05 della vigilia di Natale</b>. 
         Qualcuno ha rubato il Grande Sacco dei Giocattoli!
         <br><br>
         <div style="text-align: center; color: #4bddff; font-size: 24px; font-weight: bold;">
@@ -161,7 +161,7 @@ GAME_DATA = {
             "gift_btn": "🎁 Get my gift",
             "new_game_btn": "🔄 New Investigation",
             "intro_text": """
-        It is <b>7:00 PM on Christmas Eve</b>. 
+        It is <b>7:05 PM on Christmas Eve</b>. 
         Someone has stolen the Big Sack of Toys!
         <br><br>
         <div style="text-align: center; color: #4bddff; font-size: 24px; font-weight: bold;">
